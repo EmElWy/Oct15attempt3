@@ -27,7 +27,7 @@ boxplot(margbonds$propofapprov,main='Boxplot of Voter Approval of Bonds',xlab='P
 fivenum(margbonds$propofapprov)
 IQR(margbonds$propofapprov) #calculates Interquartile range for the data
 
-#this is crazy #githubisweird #inclassworksucks
+this is crazy #githubisweird #inclassworksucks
 
 #Question 4
 #creates scatterplot of the percentage of total votes that were for the bond measure according to the cost
